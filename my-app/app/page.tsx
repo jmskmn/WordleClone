@@ -2,7 +2,7 @@
 
 import { useState, KeyboardEvent } from "react";
 
-const TARGET_WORD = "indubitably"; // change to any word, any length, any characters
+const TARGET_WORD = "30212575"; // change to any word, any length, any characters
 
 type TileState = "green" | "yellow" | "gray";
 
