@@ -1,1 +1,6 @@
-e
+### Project Information
+
+This is a simple client-side web application built with next.js that mimics the functionality of the game "wordle" for a specific word or code that can be set in code itself. 
+This project was intended as a fun way to give my sister a Christmas present by having her have to solve the puzzle for a code that would allow her to obtain her gift.
+
+Currently, this website is hosted at address http://3.148.222.40/ but in the future this will be replaced by something else. 
